@@ -1,0 +1,3 @@
+#!/bin/bash
+sudo find . -name '[A-Z]*' -exec mv -t ~/tmp/u {} +
+
