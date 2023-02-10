@@ -1,3 +1,2 @@
 #!/bin/bash
-sudo chmod guo+x hello
-
+sudo chmod ugo+x hello
